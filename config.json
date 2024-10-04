@@ -1,4 +1,5 @@
 {
   "config": "0",
-  "fwver": "102"
+  "fwver": "102",
+  "hash_stm32fw" : "2421306f40b787fef7037940e27ac12fa130454ef66e223a4b73fc42f7fe8f44"
 }
