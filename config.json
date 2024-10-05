@@ -1,9 +1,9 @@
 {
-  "config_fw": "0",
-  "fwver_gw": "102",
-  "hash_gw" : "ac0a5b1254bb31c19eca82e3294e6694f3ac9361f58ba9b0b3dbe78a73a28c66",
+  "config_gw_fw": "0",
+  "ver_gw_fw": "102",
+  "hash_gw_fw" : "ac0a5b1254bb31c19eca82e3294e6694f3ac9361f58ba9b0b3dbe78a73a28c66",
   
-  "config_app": "0",
-  "fwver_app": "102",
-  "hash_app": "4113d06116a75379e1b5c7a650ecdb96b71742494405a52a757dc250908a54dd"
+  "config_app_fw": "0",
+  "ver_app_fw": "102",
+  "hash_app_fw": "4113d06116a75379e1b5c7a650ecdb96b71742494405a52a757dc250908a54dd"
 }
