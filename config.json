@@ -1,8 +1,8 @@
 {
     "config_gw_fw": "0",
     "ver_gw_fw": "102",
-    "hash_gw_fw": "482685a8f14fff9ff98d2f2219a9ecbf5f6db1df2d5fb0ecddf908b4fb4cb182",
+    "hash_gw_fw": "2220d508d74de7c5d858cf6f106ac0dce3d58ebccd39e72f3f935cec78b88b4a",
     "config_app_fw": "0",
     "ver_app_fw": "102",
-    "hash_app_fw": "a5ea183b9c934db3a53ee1a736a871f15c6416d554aa8bc909372faa5a93ae3b"
+    "hash_app_fw": "73a5618cea56c7d70142325549a72563149af39a3977ff229a48c9b7027c94b0"
 }
